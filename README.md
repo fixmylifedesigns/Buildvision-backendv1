@@ -96,3 +96,4 @@ thumbnail_url TEXT
 format TEXT DEFAULT 'glb'
 source_type TEXT CHECK(source_type IN ('text
 
+https://chatgpt.com/share/687f33cc-2ef0-800b-b2ac-958a4badfec6
